@@ -20,7 +20,7 @@ class _SignupScreeanState extends State<SignupScreean> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.white,
+      backgroundColor: Colors.red,
       body: Center(
         child: Padding(
           padding: const EdgeInsets.all(30.0),
